@@ -1,6 +1,6 @@
 # 坤的世界 · KUN'S WORLD
 一个像素风个人主页
-![预览](images/preview.jpg)
+![预览]<img width="859" height="660" alt="{C4F00FA2-7958-4859-ABE5-7FDD4E66F0FC}" src="https://github.com/user-attachments/assets/80ddcfef-28c7-49e7-9369-9c932edd18e1" />
 ## 📖 项目简介
 
 一个充满像素游戏氛围的个人作品集网站，把个人信息、技能栈和项目成果用 Minecraft 的视觉语言重新包装——头像、技能、项目都变成了"物品"和"成就"，底部的物品栏就是导航栏。
