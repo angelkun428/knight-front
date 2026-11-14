@@ -56,7 +56,3 @@ knight-front/
 ├── package.json
 └── vite.config.js
 ```
-
-## 📝 License
-
-MIT
